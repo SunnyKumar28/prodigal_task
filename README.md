@@ -1,4 +1,4 @@
-# Prodigal Task – AI-Powered Knowledge Retrieval Pipeline
+# Prodigal Task – AI-Powered Knowledge Retrieval
 
 Welcome to the **Prodigal Task**, an end-to-end pipeline that extracts knowledge from raw documents and enables semantic search and question-answering using advanced embedding techniques and LLMs. This system transforms unstructured CSV into a powerful knowledge base you can query in natural language.
 
