@@ -4,6 +4,8 @@ Welcome to the **Prodigal Task**, an end-to-end pipeline that extracts knowledge
 
 ---
 
+## ![DEMO LINK](https://drive.google.com/drive/folders/15ldYt7tK8BVXo7LfVHBmjYPB2LgJt1my?usp=drive_link)
+
 ## Flowchart Overview
 
 The system operates in **three distinct phases**:
