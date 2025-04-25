@@ -134,12 +134,13 @@ streamlit run app.py
 ```
 ### Project Structure
 ``` plaintext
-├── app.py                # Streamlit application script
-├── data_processing.py    # Script for CSV processing and vector store creation
-├── output.csv            # Input CSV file with government scheme data
-├── vectorstore/          # Directory for FAISS vector store
-│   └── db_faiss/
-├── requirements.txt      # Python dependencies
+Scheme_QA_BOT_Using_RAG
+  ├── app.py                # Streamlit application script
+  ├── data_processing.py    # Script for CSV processing and vector store creation
+  ├── output.csv            # Input CSV file with government scheme data
+  ├── vectorstore/          # Directory for FAISS vector store
+  │   └── db_faiss/
+  ├── requirements.txt      # Python dependencies
 └── README.md             # This file
 
 ```
