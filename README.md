@@ -3,8 +3,10 @@
 Welcome to the **Prodigal Task**, an end-to-end pipeline that extracts knowledge from raw documents and enables semantic search and question-answering using advanced embedding techniques and LLMs. This system transforms unstructured CSV into a powerful knowledge base you can query in natural language.
 
 ---
+## 🚀 Demo
 
-## ![DEMO LINK](https://drive.google.com/drive/folders/15ldYt7tK8BVXo7LfVHBmjYPB2LgJt1my?usp=drive_link)
+[Click here to watch the demo video 📺](https://drive.google.com/drive/folders/15ldYt7tK8BVXo7LfVHBmjYPB2LgJt1my?usp=drive_link)
+)
 
 ## Flowchart Overview
 
